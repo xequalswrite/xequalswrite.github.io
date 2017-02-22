@@ -1,2 +1,2 @@
-# xequalswrite.github.io
-x = write | a literary fusion of STEM + art
+# _x = write_ webpage
+a literary fusion of STEM + art
